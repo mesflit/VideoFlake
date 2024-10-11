@@ -2,8 +2,8 @@
 Videoda kullandığım flake dosyası.
 
 # İndirme
-İsterseniz kendiniz herşeyi yazabilirsiniz veya depoyu klonlayabilirsiniz.
-Veya `nix flake init` kullanarakta flake.nix dosyası oluşturabilirsiniz. 
+Depoyu Klonlamayın
+`nix flake init` kullanarak flake.nix dosyası oluşturabilirsiniz. 
 
 # Kullanım
 Öncelikle Flake özelliğini aktif hale getirmek gerek.
